@@ -1,0 +1,16 @@
+.rectangle14421-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle14421-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.rectangle14421-rectangle1442 {
+  width: 4439px;
+  height: 1px;
+}
